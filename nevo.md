@@ -5,6 +5,7 @@ Este es un fichero nuevo
 
 lista de cosas
 * primera cosa
-* segunda cosa
+* segunda cosa modificada
 * tercera cosa
+* cuarta cosa modificada
 
